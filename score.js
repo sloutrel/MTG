@@ -19,12 +19,6 @@ let gameOver = false;
 let defeatQuotes = ['Total Annihilation', 'Utter Defeat', 'Conquered', 'Bloodbath', 'Massacre']
 let victoryQuotes = ['Always Victorious', 'Glorified Victory', 'Triumphant Conquest', 'Enemies Vanquished', 'Rejoice in Your Glory']
 
-// parseInt(playerOneLife.textContent)===0 || parseInt(playerOneLife.textContent)===0){
-//     gameOver = true;
-// }
-// if (gameOver=true){
-
-// }
 const playerOneLife = document.querySelector('#p1-score')
 const playerTwoLife = document.querySelector('#p2-score')
 const p1Plus = document.querySelector('#p1-plus')
